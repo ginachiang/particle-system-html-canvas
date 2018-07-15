@@ -1,0 +1,28 @@
+.bodyDiv 
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.editor-table
+{
+    width:  20%;
+}
+
+.editor-label-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:   12px;
+    font-weight: bold;
+}
+
+table, td 
+{
+    border:             1px solid black;
+    border-collapse:    collapse;
+}
+
+td 
+{
+    padding: 5px;
+}
